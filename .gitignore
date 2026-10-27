@@ -17,3 +17,6 @@ npm-debug.log*
 wp-admin/
 wp-includes/
 wp-config.php
+
+# Site migration exports contain the database; never commit them
+*.wpress
