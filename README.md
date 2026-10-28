@@ -2,6 +2,10 @@
 
 Responsive WordPress landing page built from the supplied Figma design.
 
+**Live demo:** https://brandstory-assessment.freedev.app/ (free hosting, first load may take a few seconds)
+
+**Code:** https://github.com/Adityag025/brandstory-wordpress-assessment
+
 The deliverable is the custom theme in [`brandstory-landing/`](brandstory-landing/). Its README covers installation, folder structure, breakpoints, interactions, performance work, the automated test suite and the deliberate deviations from Figma.
 
 Quick start:

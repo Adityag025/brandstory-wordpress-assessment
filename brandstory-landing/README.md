@@ -2,6 +2,8 @@
 
 Custom WordPress theme that recreates the **"Digital Marketing Agency In Abu Dhabi"** landing page from the supplied Figma file. Built for the Junior Associate – Web Developer assessment.
 
+**Live demo:** https://brandstory-assessment.freedev.app/ (free hosting, first load may take a few seconds)
+
 - Custom theme (no page builder), classic PHP templates
 - Mobile-first CSS with design tokens, three breakpoints
 - Vanilla JavaScript for the mobile nav, accordions, carousels and stat counters
